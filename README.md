@@ -1,9 +1,10 @@
 ### Hi there ! 👋
+![alt text](https://i.pinimg.com/originals/28/b0/57/28b057e4623bf206237e079224b3168b.jpg)
 
 <!--
 **harjeevs17/harjeevs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://image.freepik.com/free-vector/draw-banner-cute-cat-say-hi-so-funny_45130-596.jpg/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
