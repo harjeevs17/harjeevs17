@@ -1,5 +1,5 @@
 ### Hi there ! 👋
-![alt text](https://i.pinimg.com/originals/28/b0/57/28b057e4623bf206237e079224b3168b.jpg)
+![alt text](https://github.com/harjeevs17/addition_backend/blob/master/introBanner.png)
 
 <!--
 **harjeevs17/harjeevs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
