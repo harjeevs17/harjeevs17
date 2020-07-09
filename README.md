@@ -3,8 +3,7 @@
 <!--
 **harjeevs17/harjeevs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://image.freepik.com/free-vector/draw-banner-cute-cat-say-hi-so-funny_45130-596.jpg
-
+<img src="https://image.freepik.com/free-vector/draw-banner-cute-cat-say-hi-so-funny_45130-596.jpg/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
